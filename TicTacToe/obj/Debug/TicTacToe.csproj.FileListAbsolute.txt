@@ -6,3 +6,14 @@ C:\Users\gilad\OneDrive\מסמכים\full-stack\moudule-6-c#\TicTacToe\obj\Debug
 C:\Users\gilad\OneDrive\מסמכים\full-stack\moudule-6-c#\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
 C:\Users\gilad\OneDrive\מסמכים\full-stack\moudule-6-c#\TicTacToe\obj\Debug\TicTacToe.exe
 C:\Users\gilad\OneDrive\מסמכים\full-stack\moudule-6-c#\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Users\gilad\OneDrive\מסמכים\full-stack\moudule-6-c#\GameTicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\gilad\OneDrive\מסמכים\full-stack\moudule-6-c#\GameTicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\gilad\OneDrive\מסמכים\full-stack\moudule-6-c#\GameTicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\gilad\OneDrive\מסמכים\full-stack\moudule-6-c#\GameTicTacToe\TicTacToe\bin\Debug\BoardLogic.dll
+C:\Users\gilad\OneDrive\מסמכים\full-stack\moudule-6-c#\GameTicTacToe\TicTacToe\bin\Debug\BoardLogic.pdb
+C:\Users\gilad\OneDrive\מסמכים\full-stack\moudule-6-c#\GameTicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.AssemblyReference.cache
+C:\Users\gilad\OneDrive\מסמכים\full-stack\moudule-6-c#\GameTicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.SuggestedBindingRedirects.cache
+C:\Users\gilad\OneDrive\מסמכים\full-stack\moudule-6-c#\GameTicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\gilad\OneDrive\מסמכים\full-stack\moudule-6-c#\GameTicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CopyComplete
+C:\Users\gilad\OneDrive\מסמכים\full-stack\moudule-6-c#\GameTicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\gilad\OneDrive\מסמכים\full-stack\moudule-6-c#\GameTicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb

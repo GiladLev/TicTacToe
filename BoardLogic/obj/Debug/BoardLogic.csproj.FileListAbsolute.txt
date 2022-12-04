@@ -1,0 +1,6 @@
+C:\Users\gilad\OneDrive\מסמכים\full-stack\moudule-6-c#\GameTicTacToe\BoardLogic\bin\Debug\BoardLogic.dll
+C:\Users\gilad\OneDrive\מסמכים\full-stack\moudule-6-c#\GameTicTacToe\BoardLogic\bin\Debug\BoardLogic.pdb
+C:\Users\gilad\OneDrive\מסמכים\full-stack\moudule-6-c#\GameTicTacToe\BoardLogic\obj\Debug\BoardLogic.csproj.AssemblyReference.cache
+C:\Users\gilad\OneDrive\מסמכים\full-stack\moudule-6-c#\GameTicTacToe\BoardLogic\obj\Debug\BoardLogic.csproj.CoreCompileInputs.cache
+C:\Users\gilad\OneDrive\מסמכים\full-stack\moudule-6-c#\GameTicTacToe\BoardLogic\obj\Debug\BoardLogic.dll
+C:\Users\gilad\OneDrive\מסמכים\full-stack\moudule-6-c#\GameTicTacToe\BoardLogic\obj\Debug\BoardLogic.pdb
